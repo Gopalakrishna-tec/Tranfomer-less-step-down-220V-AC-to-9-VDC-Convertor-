@@ -8,7 +8,7 @@ A compact transformer-less power supply that converts **220V AC to 9V DC** using
 
 | No. | Component                        | Quantity | Notes              |
 | --- | -------------------------------- | -------- | ------------------ |
-| 1   | 1N4007 Diode                     | 4        | Bridge Rectifier   |
+| 1   | Bridge Rectifier                 | 4        | Bridge Rectifier   |
 | 2   | 470µF 25V Electrolytic Capacitor | 1        | Output Filtering   |
 | 3   | 9V Zener Diode                   | 1        | Voltage Regulation |
 | 4   | 1MΩ 25W Resistor                 | 1        | Discharge / Safety |
