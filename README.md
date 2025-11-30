@@ -21,7 +21,7 @@ A compact transformer-less power supply that converts **220V AC to 9V DC** using
 
 * **AC Dropping:** 225J 400V capacitor reduces AC current reactively.
 * **Discharge Safety:** 1MΩ resistor drains the capacitor when off.
-* **Rectification:** 1N4007 diodes form a full-bridge rectifier.
+* **Rectification:** Bridge rectifier form a full-bridge rectifier.
 * **Filtering:** 470µF capacitor smooths DC output.
 * **Regulation:** 9V zener diode stabilizes final voltage.
 * **Protection:** 100Ω resistor provides surge control.
