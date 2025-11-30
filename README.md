@@ -37,6 +37,6 @@ Use extreme caution. Not suitable for beginners or high-power loads.
 ## 📂 Repository Structure
 
 ```
-├── README.md
-├── circuit_diagram.png
-└── schematic.pdf
+├── AC-DC.pdf
+├── AC-DC_.png
+└──Gerber_AC-DC_PCB_AC-DC_2025-11-30.zip
